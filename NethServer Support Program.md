@@ -60,7 +60,7 @@ Please submit the form below providing your contact information, you will added 
 
 <div class="typeform-widget" data-url="https://alessio28.typeform.com/to/WYg0i2" style="width: 100%; height: 500px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;" > powered by <a href="https://www.typeform.com//?utm_campaign=WYg0i2&amp;utm_source=typeform.com-11445686-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
 
-#NethServer Partner Program 
+# NethServer Partner Program 
 
 The purpose of the Nethesis Partner program by Nethesis is to enable customers to purchase NethServer Enterprise Edition via a certified partner who provides fulfillment support as well as first tier customer support in local time zone and local language.
 Companies who enter into a Nethesis Partner agreement typically have existing relationships with customers and help them procure information technology products.
@@ -100,7 +100,7 @@ IT Companies that aim to sell NethServer to their customers. Consultants or IT p
 If you are interested in becoming a partner please fill in the form below. We will contact you within a few days.
 <div class="typeform-widget" data-url="https://alessio28.typeform.com/to/BuDn5z" style="width: 100%; height: 500px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;" > powered by <a href="https://www.typeform.com//?utm_campaign=BuDn5z&amp;utm_source=typeform.com-11445686-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
 
-#NethServer Distributor Program
+# NethServer Distributor Program
 Because of the success of NethServer worldwide, Nethesis is looking for new distributors in other countries.
 As distributor you can create your own network of partners. Nethesis is willing to consider a set of exclusive formulas. Would you like to create your own product suite? You can have our products OEM and whitelabeled.
 A dsitributor provides fulfillment support as well as first and second tier customer support in local time zone and local language.
