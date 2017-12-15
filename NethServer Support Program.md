@@ -27,7 +27,7 @@ A NethServer Support Program subscription includes the following:
 * Diagnosis
 * Bug reports and fixes for packages in the NethServer repository
 
-###Additional info
+### Additional info
 
 * Technical support always covers all latest stable release.
 * We do not support modified packages, third party software, community projects upon which our releases are based on. 
@@ -123,7 +123,8 @@ If you are interested in becoming a distributor please fill in the form below. W
 
 
 # FAQ
-### In what languages do I get support?
+
+### In what languages do I get support?
 
 Nethesis provides support in Italian and English. We hope in the future to add other languages.
 
